@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/ValidatingDataRows/MainPage.xaml) (VB: [MainPage.xaml](./VB/ValidatingDataRows/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/ValidatingDataRows/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/ValidatingDataRows/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/ValidatingDataRows/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ValidatingDataRows/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to Validate Data Rows and Indicate Errors
 
